@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'PT Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/ptmono/v13/9oRONYoBnWILk-9AnCEzNg.ttf) format('truetype');
+}

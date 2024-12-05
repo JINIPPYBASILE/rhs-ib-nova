@@ -1,0 +1,18 @@
+<div class="blurthiscrap">
+    <div class="card p-5 actualheadertop ">
+        <h1 class="wavey">RHS-IB-WEBSITE</h1> 
+       <div class="getridofwhiteahhoutline col-lg-6 mx-auto">The home of IB in Richmond, BC</div>
+     </div>
+</div>
+
+<script>
+    (function(){
+  
+  var el = document.querySelectorAll(".wavey")[0];
+  var oldText = el.innerText
+  var newHtml = "";
+  for (var i in el.innerText) { newHtml += ("<span style='animation-delay: " + i/10 + "s;'>" + oldText[i] + "</span>"); }
+  el.innerHTML = newHtml;
+  
+})();
+</script>

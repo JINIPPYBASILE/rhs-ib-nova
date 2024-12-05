@@ -1,0 +1,1992 @@
+Uri: https://0.gravatar.com/js/hovercards/hovercards.min.js?ver=202449b213a1cbb4e3271ca470eb7790af362ac2e18ce468f8945952c7bd3456d2132e
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\js\hovercards\hovercards.min.js
+Content Type: application/javascript
+
+Uri: https://a.teads.tv/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\index-1.htm
+Content Type: text/xml
+
+Uri: https://fonts-api.wp.com/css?family=PT+Mono&subset=latin%2Clatin-ext
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\css-2
+Content Type: text/css
+
+Uri: https://fonts-api.wp.com/css?family=PT+Sans:400%2C700%2C400italic%2C700italic&subset=latin%2Clatin-ext
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\css
+Content Type: text/css
+
+Uri: https://fonts-api.wp.com/css?family=PT+Serif:400%2C700%2C400italic%2C700italic&subset=latin%2Clatin-ext
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.wp.com/s/ptmono/v13/9oRONYoBnWILk-9AnCEzNg.ttf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\s\ptmono\v13\9oRONYoBnWILk-9AnCEzNg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.wp.com/s/ptsans/v17/jizaRExUiTo99u79D0yEwA.ttf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\s\ptsans\v17\jizaRExUiTo99u79D0yEwA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.wp.com/s/ptsans/v17/jizdRExUiTo99u79D0e8fOydIRUY.ttf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\s\ptsans\v17\jizdRExUiTo99u79D0e8fOydIRUY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.wp.com/s/ptsans/v17/jizfRExUiTo99u79B_mh0OCtKA.ttf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\s\ptsans\v17\jizfRExUiTo99u79B_mh0OCtKA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.wp.com/s/ptsans/v17/jizYRExUiTo99u79D0e0ycmN.ttf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\s\ptsans\v17\jizYRExUiTo99u79D0e0ycmN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.wp.com/s/ptserif/v18/EJRQQgYoZZY2vCFuvAFT9gaQZyffpQ.ttf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\s\ptserif\v18\EJRQQgYoZZY2vCFuvAFT9gaQZyffpQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.wp.com/s/ptserif/v18/EJRSQgYoZZY2vCFuvAnt66qcVy4.ttf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\s\ptserif\v18\EJRSQgYoZZY2vCFuvAnt66qcVy4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.wp.com/s/ptserif/v18/EJRTQgYoZZY2vCFuvAFT_rO1dw.ttf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\s\ptserif\v18\EJRTQgYoZZY2vCFuvAFT_rO1dw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.wp.com/s/ptserif/v18/EJRVQgYoZZY2vCFuvAFYzro.ttf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\s\ptserif\v18\EJRVQgYoZZY2vCFuvAFYzro.ttf
+Content Type: font/ttf
+
+Uri: https://pixel.wp.com/b.gif?v=noscript
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\b.gif
+Content Type: image/gif
+
+Uri: https://prebid.media.net/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\index-2.htm
+Content Type: 
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Fapply%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-82.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Fcommunity%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-18.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fassessment-information%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-76.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fbenefits-for-students%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-16.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fbenefits-for-students%2Flearning-to-persevere%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-20.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fbenefits-for-students%2Fproven-academic-success%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-28.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fbenefits-for-students%2Fself-knowledge-and-community-involvement%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-22.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fbenefits-for-students%2Ftime-management%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-24.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fbenefits-for-students%2Funiversity-admission%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-26.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fbenefits-for-students%2Funiversity-credit%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-30.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-32.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-1-literature%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-34.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-2-language-acquisition%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-36.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-3-individuals-and-society%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-38.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-3-individuals-and-society%2Fbusiness-and-management%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-42.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-3-individuals-and-society%2Fgeography%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-44.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-3-individuals-and-society%2Fhistory%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-40.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-3-individuals-and-society%2Fitgs%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-46.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-4-sciences%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-48.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-4-sciences%2Fbiology%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-50.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-4-sciences%2Fchemistry%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-52.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-4-sciences%2Fphysics%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-54.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-5-mathematics%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-56.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-6-arts%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-58.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-6-arts%2Fmusic%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-60.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-6-arts%2Ftheatre%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-62.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-6-arts%2Fvisual-arts%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-64.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-core-courses%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-66.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-core-courses%2Fcreativity-activity-and-service%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-68.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-core-courses%2Fextended-essay%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-70.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-core-courses%2Ftheory-of-knowledge%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-74.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-diploma-programme-at-richmond-secondary-school%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-2.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-diploma-programme-at-richmond-secondary-school%2Fapproaches-to-teaching-learning%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-10.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-diploma-programme-at-richmond-secondary-school%2Fconnecting-ib-learners-to-the-world%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-6.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-diploma-programme-at-richmond-secondary-school%2Fdiverse-and-inclusive%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-14.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-diploma-programme-at-richmond-secondary-school%2Fib-learner-profile%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-8.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-diploma-programme-at-richmond-secondary-school%2Finternational-mindedness%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-12.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-diploma-programme-at-richmond-secondary-school%2Fwhat-is-the-ib-diploma-programme%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-4.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fresources-for-students%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-78.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fresources-for-students%2Fmanagebac%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-80.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=json&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fresources-for-students%2Fsample-ee%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-72.htm
+Content Type: application/json
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-1.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Fapply%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-83.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Fcommunity%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-19.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fassessment-information%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-77.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fbenefits-for-students%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-17.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fbenefits-for-students%2Flearning-to-persevere%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-21.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fbenefits-for-students%2Fproven-academic-success%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-29.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fbenefits-for-students%2Fself-knowledge-and-community-involvement%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-23.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fbenefits-for-students%2Ftime-management%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-25.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fbenefits-for-students%2Funiversity-admission%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-27.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fbenefits-for-students%2Funiversity-credit%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-31.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-33.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-1-literature%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-35.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-2-language-acquisition%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-37.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-3-individuals-and-society%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-39.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-3-individuals-and-society%2Fbusiness-and-management%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-43.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-3-individuals-and-society%2Fgeography%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-45.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-3-individuals-and-society%2Fhistory%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-41.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-3-individuals-and-society%2Fitgs%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-47.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-4-sciences%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-49.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-4-sciences%2Fbiology%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-51.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-4-sciences%2Fchemistry%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-53.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-4-sciences%2Fphysics%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-55.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-5-mathematics%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-57.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-6-arts%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-59.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-6-arts%2Fmusic%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-61.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-6-arts%2Ftheatre%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-63.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fcourse-selection%2Fgroup-6-arts%2Fvisual-arts%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-65.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-core-courses%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-67.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-core-courses%2Fcreativity-activity-and-service%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-69.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-core-courses%2Fextended-essay%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-71.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-core-courses%2Ftheory-of-knowledge%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-75.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-diploma-programme-at-richmond-secondary-school%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-3.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-diploma-programme-at-richmond-secondary-school%2Fapproaches-to-teaching-learning%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-11.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-diploma-programme-at-richmond-secondary-school%2Fconnecting-ib-learners-to-the-world%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-7.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-diploma-programme-at-richmond-secondary-school%2Fdiverse-and-inclusive%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-15.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-diploma-programme-at-richmond-secondary-school%2Fib-learner-profile%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-9.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-diploma-programme-at-richmond-secondary-school%2Finternational-mindedness%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-13.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fib-diploma-programme-at-richmond-secondary-school%2Fwhat-is-the-ib-diploma-programme%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-5.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fresources-for-students%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-79.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fresources-for-students%2Fmanagebac%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-81.htm
+Content Type: text/xml
+
+Uri: https://public-api.wordpress.com/oembed/?format=xml&url=https:%2F%2Frhsib.wordpress.com%2Frichmond-secondary-school-new%2Fresources-for-students%2Fsample-ee%2F&for=wpcom-auto-discovery
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\oembed\index-73.htm
+Content Type: text/xml
+
+Uri: https://rhsib.wordpress.com/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/?openidserver=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\index-3.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/apply/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\apply\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/comments/feed/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://rhsib.wordpress.com/community/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\community\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/feed/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://rhsib.wordpress.com/osd.xml
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\osd.xml
+Content Type: application/xml
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/assessment-information/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\assessment-information\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/benefits-for-students/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\benefits-for-students\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/benefits-for-students/learning-to-persevere/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\benefits-for-students\learning-to-persevere\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/benefits-for-students/proven-academic-success/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\benefits-for-students\proven-academic-success\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/benefits-for-students/self-knowledge-and-community-involvement/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\benefits-for-students\self-knowledge-and-community-involvement\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/benefits-for-students/time-management/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\benefits-for-students\time-management\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/benefits-for-students/university-admission/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\benefits-for-students\university-admission\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/benefits-for-students/university-credit/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\benefits-for-students\university-credit\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-1-literature/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-1-literature\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-2-language-acquisition/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-2-language-acquisition\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-3-individuals-and-society/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-3-individuals-and-society\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-3-individuals-and-society/business-and-management/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-3-individuals-and-society\business-and-management\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-3-individuals-and-society/geography/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-3-individuals-and-society\geography\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-3-individuals-and-society/history/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-3-individuals-and-society\history\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-3-individuals-and-society/itgs/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-3-individuals-and-society\itgs\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-4-sciences/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-4-sciences\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-4-sciences/biology/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-4-sciences\biology\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-4-sciences/chemistry/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-4-sciences\chemistry\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-4-sciences/physics/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-4-sciences\physics\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-5-mathematics/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-5-mathematics\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-6-arts/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-6-arts\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-6-arts/music/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-6-arts\music\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-6-arts/theatre/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-6-arts\theatre\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/course-selection/group-6-arts/visual-arts/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\course-selection\group-6-arts\visual-arts\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/ib-core-courses/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\ib-core-courses\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/ib-core-courses/creativity-activity-and-service/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\ib-core-courses\creativity-activity-and-service\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/ib-core-courses/extended-essay/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\ib-core-courses\extended-essay\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/ib-core-courses/theory-of-knowledge/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\ib-core-courses\theory-of-knowledge\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/ib-diploma-programme-at-richmond-secondary-school/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\ib-diploma-programme-at-richmond-secondary-school\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/ib-diploma-programme-at-richmond-secondary-school/approaches-to-teaching-learning/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\ib-diploma-programme-at-richmond-secondary-school\approaches-to-teaching-learning\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/ib-diploma-programme-at-richmond-secondary-school/connecting-ib-learners-to-the-world/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\ib-diploma-programme-at-richmond-secondary-school\connecting-ib-learners-to-the-world\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/ib-diploma-programme-at-richmond-secondary-school/diverse-and-inclusive/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\ib-diploma-programme-at-richmond-secondary-school\diverse-and-inclusive\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/ib-diploma-programme-at-richmond-secondary-school/ib-learner-profile/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\ib-diploma-programme-at-richmond-secondary-school\ib-learner-profile\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/ib-diploma-programme-at-richmond-secondary-school/international-mindedness/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\ib-diploma-programme-at-richmond-secondary-school\international-mindedness\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/ib-diploma-programme-at-richmond-secondary-school/what-is-the-ib-diploma-programme/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\ib-diploma-programme-at-richmond-secondary-school\what-is-the-ib-diploma-programme\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/resources-for-students/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\resources-for-students\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/resources-for-students/managebac/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\resources-for-students\managebac\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/richmond-secondary-school-new/resources-for-students/sample-ee/
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\richmond-secondary-school-new\resources-for-students\sample-ee\index.htm
+Content Type: text/html
+
+Uri: https://rhsib.wordpress.com/wp-content/js/bilmur-4.min.js?i=12&m=202449
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\js\bilmur-4.min.js
+Content Type: application/javascript
+
+Uri: https://rhsib.wordpress.com/wp-content/js/bilmur.min.js?i=12&m=202449
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\js\bilmur.min.js
+Content Type: application/javascript
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/cas-guide.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\cas-guide.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/diploma-ee-tok-points-matrix.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\diploma-ee-tok-points-matrix.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/history-guide-2017.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\history-guide-2017.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/ib-dp-approaches-to-teaching-learning.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\ib-dp-approaches-to-teaching-learning.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/ib-learner-profile.jpg
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\ib-learner-profile.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/ib-learner-profile.jpg?w=106&h=150
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\ib-learner-profile-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/ib-learner-profile.jpg?w=212&h=300
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\ib-learner-profile-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/ib-learner-profile.jpg?w=724&h=1024
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\ib-learner-profile-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/ib-learner-profile.jpg?w=768&h=1086
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\ib-learner-profile-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_1221-e1498250449188.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_1221-e1498250449188-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_1221-e1498250449188.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_1221-e1498250449188-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_1221-e1498250449188.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_1221-e1498250449188-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_1221-e1498250449188.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_1221-e1498250449188.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_1221-e1498250449188.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_1221-e1498250449188-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_1528.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_1528.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_2468.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_2468-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_2468.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_2468-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_2468.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_2468-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_2468.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_2468.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_2468.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_2468-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_2899-e1498254362802.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_2899-e1498254362802-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_2899-e1498254362802.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_2899-e1498254362802-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_2899-e1498254362802.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_2899-e1498254362802-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_2899-e1498254362802.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_2899-e1498254362802.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_2899-e1498254362802.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_2899-e1498254362802-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_2919.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_2919-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_2919.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_2919-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_2919.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_2919-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_2919.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_2919.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_2919.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_2919-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_3822.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_3822-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_3822.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_3822-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_3822.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_3822-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_3822.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_3822.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_3822.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_3822-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4057.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4057-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4057.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4057-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4057.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4057-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4057.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4057.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4057.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4057-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4291.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4291-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4291.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4291-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4291.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4291-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4291.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4291.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4291.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4291-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4308-e1498253377336.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4308-e1498253377336-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4308-e1498253377336.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4308-e1498253377336-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4308-e1498253377336.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4308-e1498253377336-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4308-e1498253377336.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4308-e1498253377336.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4308-e1498253377336.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4308-e1498253377336-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4338-2.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4338-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4338-2.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4338-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4338-2.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4338-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4338-2.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4338-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4338-2.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4338-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4380-e1498171304415.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4380-e1498171304415-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4380-e1498171304415.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4380-e1498171304415-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4380-e1498171304415.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4380-e1498171304415-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4380-e1498171304415.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4380-e1498171304415.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4380-e1498171304415.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4380-e1498171304415-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4403-e1500415925757.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4403-e1500415925757-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4403-e1500415925757.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4403-e1500415925757-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4403-e1500415925757.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4403-e1500415925757-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4403-e1500415925757.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4403-e1500415925757.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4403-e1500415925757.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4403-e1500415925757-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4464-e1498253128520.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4464-e1498253128520-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4464-e1498253128520.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4464-e1498253128520-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4464-e1498253128520.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4464-e1498253128520-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4464-e1498253128520.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4464-e1498253128520.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4464-e1498253128520.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4464-e1498253128520-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_45281.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_45281-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_45281.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_45281-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_45281.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_45281-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_45281.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_45281.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_45281.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_45281-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4549-e1498589564860.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4549-e1498589564860-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4549-e1498589564860.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4549-e1498589564860-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4549-e1498589564860.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4549-e1498589564860-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4549-e1498589564860.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4549-e1498589564860.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_4549-e1498589564860.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_4549-e1498589564860-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_45551.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_45551-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_45551.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_45551-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_45551.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_45551-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_45551.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_45551.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_45551.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_45551-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_9272-e1498249659783.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_9272-e1498249659783-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_9272-e1498249659783.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_9272-e1498249659783-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_9272-e1498249659783.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_9272-e1498249659783-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_9272-e1498249659783.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_9272-e1498249659783.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/img_9272-e1498249659783.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\img_9272-e1498249659783-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/language-b-guide.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\language-b-guide.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/logo.png
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\logo-2.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/logo.png?w=150&h=27
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\logo-3.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/logo.png?w=300&h=54
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\logo-4.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/logo.png?w=540&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\logo.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/logo.png?w=930
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\logo-1.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/p4070572-e1498257020425.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\p4070572-e1498257020425-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/p4070572-e1498257020425.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\p4070572-e1498257020425-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/p4070572-e1498257020425.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\p4070572-e1498257020425-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/p4070572-e1498257020425.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\p4070572-e1498257020425.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2015/12/p4070572-e1498257020425.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2015\12\p4070572-e1498257020425-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_1_a1eng_eee_1405_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_1_a1eng_eee_1405_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_1_a1eng_eee_1405_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_1_a1eng_eee_1405_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_1_a1eng_eee_1405_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_1_a1eng_eee_1405_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_1_a1eng_eee_1505_1a_e-1.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_1_a1eng_eee_1505_1a_e-1.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_1_a1eng_eee_1505_1b_e1.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_1_a1eng_eee_1505_1b_e1.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_1_a1eng_eee_1505_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_1_a1eng_eee_1505_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_busmt_eee_1305_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_busmt_eee_1305_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_busmt_eee_1305_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_busmt_eee_1305_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_busmt_eee_1305_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_busmt_eee_1305_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_busmt_eee_1505_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_busmt_eee_1505_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_busmt_eee_1505_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_busmt_eee_1505_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_busmt_eee_1505_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_busmt_eee_1505_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_geogr_eee_1305_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_geogr_eee_1305_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_geogr_eee_1305_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_geogr_eee_1305_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_geogr_eee_1305_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_geogr_eee_1305_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_geogr_eee_1505_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_geogr_eee_1505_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_geogr_eee_1505_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_geogr_eee_1505_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_geogr_eee_1505_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_geogr_eee_1505_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_histx_eee_1305_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_histx_eee_1305_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_histx_eee_1305_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_histx_eee_1305_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_histx_eee_1305_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_histx_eee_1305_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_histx_eee_1505_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_histx_eee_1505_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_histx_eee_1505_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_histx_eee_1505_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_itgsx_eee_1305_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_itgsx_eee_1305_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_itgsx_eee_1305_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_itgsx_eee_1305_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_itgsx_eee_1305_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_itgsx_eee_1305_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_itgsx_eee_1505_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_itgsx_eee_1505_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_itgsx_eee_1505_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_itgsx_eee_1505_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_3_itgsx_eee_1505_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_3_itgsx_eee_1505_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_biolo_eee_1305_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_biolo_eee_1305_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_biolo_eee_1305_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_biolo_eee_1305_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_biolo_eee_1305_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_biolo_eee_1305_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_biolo_eee_1505_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_biolo_eee_1505_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_biolo_eee_1505_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_biolo_eee_1505_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_biolo_eee_1505_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_biolo_eee_1505_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_chemi_eee_1305_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_chemi_eee_1305_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_chemi_eee_1305_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_chemi_eee_1305_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_chemi_eee_1305_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_chemi_eee_1305_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_chemi_eee_1505_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_chemi_eee_1505_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_chemi_eee_1505_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_chemi_eee_1505_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_chemi_eee_1505_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_chemi_eee_1505_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_physi_eee_1305_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_physi_eee_1305_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_physi_eee_1305_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_physi_eee_1305_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_physi_eee_1305_1c_e-1.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_physi_eee_1305_1c_e-1.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_physi_eee_1505_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_physi_eee_1505_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_4_physi_eee_1505_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_4_physi_eee_1505_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_5_gen5d_eee_1305_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_5_gen5d_eee_1305_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_5_gen5d_eee_1305_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_5_gen5d_eee_1305_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_5_gen5d_eee_1305_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_5_gen5d_eee_1305_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_5_gen5d_eee_1505_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_5_gen5d_eee_1505_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_5_gen5d_eee_1505_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_5_gen5d_eee_1505_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_music_eee_1305_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_music_eee_1305_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_music_eee_1305_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_music_eee_1305_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_music_eee_1305_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_music_eee_1305_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_music_eee_1505_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_music_eee_1505_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_music_eee_1505_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_music_eee_1505_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_music_eee_1505_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_music_eee_1505_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_theat_eee_1305_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_theat_eee_1305_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_theat_eee_1305_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_theat_eee_1305_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_theat_eee_1305_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_theat_eee_1305_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_theat_eee_1505_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_theat_eee_1505_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_theat_eee_1505_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_theat_eee_1505_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_theat_eee_1505_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_theat_eee_1505_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_visar_eee_1305_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_visar_eee_1305_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_visar_eee_1305_1b_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_visar_eee_1305_1b_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_visar_eee_1305_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_visar_eee_1305_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_visar_eee_1411_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_visar_eee_1411_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_visar_eee_1505_1a_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_visar_eee_1505_1a_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/01/occ_d_6_visar_eee_1505_1c_e.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\01\occ_d_6_visar_eee_1505_1c_e.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/ib-world-school-logo-1-colour1.png?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\ib-world-school-logo-1-colour1-1.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/ib-world-school-logo-1-colour1.png?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\ib-world-school-logo-1-colour1-2.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/ib-world-school-logo-1-colour1.png?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\ib-world-school-logo-1-colour1.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/ib-world-school-logo-1-colour1.png?w=494&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\ib-world-school-logo-1-colour1-3.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_1770.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_1770-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_1770.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_1770-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_1770.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_1770-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_1770.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_1770.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_1770.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_1770-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_2712-e1498251104667.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_2712-e1498251104667-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_2712-e1498251104667.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_2712-e1498251104667-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_2712-e1498251104667.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_2712-e1498251104667-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_2712-e1498251104667.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_2712-e1498251104667.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_2712-e1498251104667.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_2712-e1498251104667-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_3711-e1498250821990.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_3711-e1498250821990-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_3711-e1498250821990.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_3711-e1498250821990-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_3711-e1498250821990.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_3711-e1498250821990-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_3711-e1498250821990.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_3711-e1498250821990.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_3711-e1498250821990.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_3711-e1498250821990-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_3929-e1498252886693.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_3929-e1498252886693-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_3929-e1498252886693.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_3929-e1498252886693-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_3929-e1498252886693.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_3929-e1498252886693-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_3929-e1498252886693.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_3929-e1498252886693.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_3929-e1498252886693.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_3929-e1498252886693-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_4230-e1498251989104.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_4230-e1498251989104-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_4230-e1498251989104.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_4230-e1498251989104-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_4230-e1498251989104.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_4230-e1498251989104-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_4230-e1498251989104.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_4230-e1498251989104.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_4230-e1498251989104.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_4230-e1498251989104-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_4426-e1498169547123.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_4426-e1498169547123-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_4426-e1498169547123.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_4426-e1498169547123-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_4426-e1498169547123.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_4426-e1498169547123-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_4426-e1498169547123.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_4426-e1498169547123.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_4426-e1498169547123.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_4426-e1498169547123-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_4443-e1498169179236.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_4443-e1498169179236-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_4443-e1498169179236.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_4443-e1498169179236-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_4443-e1498169179236.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_4443-e1498169179236.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_4443-e1498169179236.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_4443-e1498169179236-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/img_4443-e1498169179236.jpg?w=943&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\img_4443-e1498169179236-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1a.png
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1a-5.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1a.png?w=150
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1a-2.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1a.png?w=300
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1a-3.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1a.png?w=656
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1a-1.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1a.png?w=768
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1a-4.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1a.png?w=930&h=557
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1a.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1c.png
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1c-5.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1c.png?w=150
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1c-2.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1c.png?w=300
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1c-3.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1c.png?w=656
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1c-1.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1c.png?w=768
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1c-4.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1c.png?w=930&h=550
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1c.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1dd.png
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1dd-5.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1dd.png?w=150
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1dd-2.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1dd.png?w=300
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1dd-3.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1dd.png?w=656
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1dd-1.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1dd.png?w=768
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1dd-4.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/picture1dd.png?w=930&h=629
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\picture1dd.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-1-51-12-pm.png
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-1-51-12-pm-1.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-1-51-12-pm.png?w=150&h=99
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-1-51-12-pm-2.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-1-51-12-pm.png?w=300&h=198
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-1-51-12-pm-3.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-1-51-12-pm.png?w=930
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-1-51-12-pm.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-12-20-54-pm.png
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-12-20-54-pm-1.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-12-20-54-pm.png?w=150&h=86
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-12-20-54-pm-2.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-12-20-54-pm.png?w=300&h=172
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-12-20-54-pm-3.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-12-20-54-pm.png?w=930
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-12-20-54-pm.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-05-07-pm.png
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-05-07-pm-1.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-05-07-pm.png?w=150&h=92
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-05-07-pm-2.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-05-07-pm.png?w=300&h=184
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-05-07-pm-3.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-05-07-pm.png?w=930
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-05-07-pm.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-12-38-pm.png
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-12-38-pm-1.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-12-38-pm.png?w=150&h=86
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-12-38-pm-2.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-12-38-pm.png?w=300&h=172
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-12-38-pm-3.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-12-38-pm.png?w=930
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-12-38-pm.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-23-32-pm.png
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-23-32-pm-1.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-23-32-pm.png?w=150&h=92
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-23-32-pm-2.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-23-32-pm.png?w=300&h=183
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-23-32-pm-3.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-23-32-pm.png?w=930
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-23-32-pm.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-23-51-pm.png
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-23-51-pm-1.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-23-51-pm.png?w=150&h=94
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-23-51-pm-2.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-23-51-pm.png?w=300&h=189
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-23-51-pm-3.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/08/screen-shot-2017-09-29-at-2-23-51-pm.png?w=930
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\08\screen-shot-2017-09-29-at-2-23-51-pm.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/10/untitled-e1497886664956.png?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\10\untitled-e1497886664956-1.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/10/untitled-e1497886664956.png?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\10\untitled-e1497886664956-2.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/10/untitled-e1497886664956.png?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\10\untitled-e1497886664956.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2016/10/untitled-e1497886664956.png?w=355&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2016\10\untitled-e1497886664956-3.png
+Content Type: image/png
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2017/06/img_8500-e1498257243333.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2017\06\img_8500-e1498257243333-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2017/06/img_8500-e1498257243333.jpg?w=150&h=150&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2017\06\img_8500-e1498257243333-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2017/06/img_8500-e1498257243333.jpg?w=300&h=300&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2017\06\img_8500-e1498257243333-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2017/06/img_8500-e1498257243333.jpg?w=330&h=330&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2017\06\img_8500-e1498257243333.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2017/06/img_8500-e1498257243333.jpg?w=660&h=660&crop=1
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2017\06\img_8500-e1498257243333-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2017/06/school_shot_5-copy-e1498167249710.jpg?w=1230&
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2017\06\school_shot_5-copy-e1498167249710.jpg
+Content Type: image/jpeg
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/assessment-practices-and-principles-dec-2022.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\assessment-practices-and-principles-dec-2022.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/biology-guide-may-2025.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\biology-guide-may-2025.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/business-management-guide-may-2024.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\business-management-guide-may-2024.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/chemistry-guide-may-2025.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\chemistry-guide-may-2025.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/digital-society-may-2024.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\digital-society-may-2024.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/dp-brochure.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\dp-brochure.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/dp-research-findings.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\dp-research-findings.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/ee-tok-cas-research-findings.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\ee-tok-cas-research-findings.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/extended-essay-guide-may-2018.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\extended-essay-guide-may-2018.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/faqs-about-the-dp.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\faqs-about-the-dp.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/geography-guide-may-2019.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\geography-guide-may-2019.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/grade-descriptors-updated-sept-2021.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\grade-descriptors-updated-sept-2021.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/music-guide-may-2022.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\music-guide-may-2022.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/physics-guide-may-2025.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\physics-guide-may-2025.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/theatre-guide-may-2024.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\theatre-guide-may-2024.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/tok-guide-may-2022.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\tok-guide-may-2022.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/university-performance-dp-students.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\university-performance-dp-students.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/06/visual-arts-guide-may-2017.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\06\visual-arts-guide-may-2017.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/12/formal-ib-supplemental-profile-sept-2024-intake.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\12\formal-ib-supplemental-profile-sept-2024-intake.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/12/ib-info-night-package-sept-2024-intake.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\12\ib-info-night-package-sept-2024-intake.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2023/12/ib-info-night-september-2024-slideshow.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2023\12\ib-info-night-september-2024-slideshow.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2024/06/academic-integrity-2021.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2024\06\academic-integrity-2021.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2024/06/academic-integrity-ib-2023.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2024\06\academic-integrity-ib-2023.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2024/06/language-a-literature-guide-2021.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2024\06\language-a-literature-guide-2021.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2024/06/learner-profile.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2024\06\learner-profile.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2024/06/math-analysis-approaches-2021.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2024\06\math-analysis-approaches-2021.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2024/06/may-2027-rhs-ib-diploma-programme-application.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2024\06\may-2027-rhs-ib-diploma-programme-application.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2024/06/the-many-paths-of-the-ib-diploma-programme-at-rhs.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2024\06\the-many-paths-of-the-ib-diploma-programme-at-rhs.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/wp-content/uploads/2024/06/what-is-an-ib-education-2019.pdf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\uploads\2024\06\what-is-an-ib-education-2019.pdf
+Content Type: application/pdf
+
+Uri: https://rhsib.wordpress.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://s0.wp.com/wp-content/blog-plugins/marketing-bar/images/arrow.svg
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\blog-plugins\marketing-bar\images\arrow-1.svg
+Content Type: image/svg+xml
+
+Uri: https://s0.wp.com/wp-content/blog-plugins/marketing-bar/images/jp-app.svg
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\blog-plugins\marketing-bar\images\jp-app-1.svg
+Content Type: image/svg+xml
+
+Uri: https://s0.wp.com/wp-content/blog-plugins/marketing-bar/images/wpcom-mark.svg
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\blog-plugins\marketing-bar\images\wpcom-mark-1.svg
+Content Type: image/svg+xml
+
+Uri: https://s0.wp.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/moon/vendor/automattic/jetpack-classic-theme-helper/dist/responsive-videos/responsive-videos.css?m=1717620995i&cssminify=yes
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\mu-plugins\jetpack-mu-wpcom-plugin\moon\vendor\automattic\jetpack-classic-theme-helper\dist\responsive-videos\responsive-videos.css
+Content Type: text/css
+
+Uri: https://s0.wp.com/wp-content/plugins/gutenberg-core/v19.7.0/build-module/interactivity/index.min.js?ver=63df923685080be7c130
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\plugins\gutenberg-core\v19.7.0\build-module\interactivity\index.min.js
+Content Type: application/javascript
+
+Uri: https://s0.wp.com/wp-content/plugins/gutenberg-core/v19.7.0/build/hooks/index.min.js?m=1732574862i&ver=84e753e2b66eb7028d38
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\plugins\gutenberg-core\v19.7.0\build\hooks\index.min.js
+Content Type: application/javascript
+
+Uri: https://s0.wp.com/wp-content/plugins/gutenberg-core/v19.7.0/build/i18n/index.min.js?m=1732574862i&ver=bd5a2533e717a1043151
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\plugins\gutenberg-core\v19.7.0\build\i18n\index.min.js
+Content Type: application/javascript
+
+Uri: https://s0.wp.com/_static/??-eJx9j0sOwjAMBS9EcAuLqgvEUVBwLOqSxFGctNenEuUjkLr0+NmaB3MyKLFQLBCqSb7eOCqMVJLFu1nQnFDCuoAgEmGi6CSDrUWCLYXxHUdvVRlNGSiQGcgnyuBYC2TSJFF5IjOxI9F/sh91B9s63xYXjgjXyt4B2ixVyX88VrAPHDfevmLPjj/jcncOp7Y7Nu2h6bt+fABiYXD7
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-16.htm
+Content Type: application/javascript
+
+Uri: https://s0.wp.com/_static/??-eJyFzk0KAjEMBeALWcNURGYhniWdhtJp+kObsXh7qxsRYVwm78sj0ItachJKAoazU4U351ODnqtF28BxNsjHpbUD/LNkfVJ3/YPj9qHeOpJBt5Hm4EkxdhCKhVGoQZMH014B+zDYSlJwCeo97T8XsQYSn5wyWGHQ783r+Bav00XPZz2fJr0+Aec6ZgY=&cssminify=yes
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-9.htm
+Content Type: text/css
+
+Uri: https://s0.wp.com/_static/??-eJyljEsKgDAMBS9kDUUquhDPom0Qaz/BNHh9KdgTuBl4w2PgIWVzKpgKRFEU5DgTg8dCm72+DTHnCicBGex2Z2EMwM9JeKtdkgvYW+YOftTaqYkaXOOix8noQU+z8S9MR0BZ&cssminify=yes
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-10.htm
+Content Type: text/css
+
+Uri: https://s0.wp.com/_static/??-eJyNj9FOwzAMRX+ILEwFIR4Q35ImbuvWsUOcrOzv1zAhUB+mPlm6PsfytWsyXrgAFzurjdIjgakK2Y1bZpAHOc36ZP9xPcloEtURWe0qObigxpNTBW1HVldo78T6Z2AYoaiFum1lQTDkVlsgJnIFdvmDO4TLRn9VqDA5DgT5AewlxtbnLs27YC+WCeKGpdpbCMiNZ3fB0RUUPgAruOynI+CCaXuBFzOIr2oG/D5gtfmLIXuq4d4poBZ7AQ6S2yoJXQckOsUf/DN+nN+680v33L2+zzfUvbuG
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-15.htm
+Content Type: application/javascript
+
+Uri: https://s0.wp.com/_static/??-eJyNkdFOxSAMhl9IDp5MY7wwPorpoGPdSosDnI8vix41u1h2RfrzfQ2ldk3GqRSUYqdso/bEaGrGBULLDMmglynf2X9czxpM4hpIsl118eCzcQw5Y96arFB478T6Z5APWLLF2m51JjQMqy0YE0PBXX7Qh2lu9HvFiiOIZ1wOYKcxbvN8S9Mu2ItlxNiwVHuLnmTjBT4oQCGVE3BGWNx4BpwptSfIbAZ1NZuBPk9Y23kw64QlgZt/6rZTFftG4mxfib11sGhbMP9yt+ASD9veMLOm9nm7snmv8eX61F0fuvvu8Xn6Aup/4Go=
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-17.htm
+Content Type: application/javascript
+
+Uri: https://s0.wp.com/_static/??-eJyNkUFuxCAMRS9USkfpqOqi6lkIOMQJ2BRD6fELmkWrLKKskD7vfdmybklZpgJU9CY68owBVBXIxvdMIS38vMmT/sfNgb1KoXok0Y2zM06UDUYEZJQ0U8LRifXPQOehiIbaf3lHUME0XSCmYAoc8pOegHunvypUWA25APkEthzj2OchbYfgKJYVYsdSnTU4pMGT+UZvCjJdgAVMtusVcMfUR6BdLWyrqAV/LljjPdl1GSfsR7KjNVtQjhsF7lfSYjOm0t3P+HF7m26v08t0f99+AZrtwJ0=
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-12.htm
+Content Type: application/javascript
+
+Uri: https://s1.wp.com/i/noticons/Noticons.eot?
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\i\noticons\Noticons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://s1.wp.com/i/noticons/Noticons.svg
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\i\noticons\Noticons.svg
+Content Type: image/svg+xml
+
+Uri: https://s1.wp.com/i/noticons/Noticons.ttf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\i\noticons\Noticons.ttf
+Content Type: application/font-ttf
+
+Uri: https://s1.wp.com/opensearch.xml
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\opensearch.xml
+Content Type: text/xml
+
+Uri: https://s1.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035i&cssminify=yes
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\mu-plugins\global-print\global-print.css
+Content Type: text/css
+
+Uri: https://s1.wp.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/moon/vendor/automattic/jetpack-classic-theme-helper/dist/responsive-videos/responsive-videos.js?m=1725888675i
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\mu-plugins\jetpack-mu-wpcom-plugin\moon\vendor\automattic\jetpack-classic-theme-helper\dist\responsive-videos\responsive-videos.js
+Content Type: application/javascript
+
+Uri: https://s1.wp.com/wp-content/mu-plugins/jetpack-plugin/moon/_inc/genericons/genericons/Genericons.eot
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\mu-plugins\jetpack-plugin\moon\_inc\genericons\genericons\Genericons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://s1.wp.com/wp-content/mu-plugins/jetpack-plugin/moon/_inc/genericons/genericons/Genericons.eot?
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\mu-plugins\jetpack-plugin\moon\_inc\genericons\genericons\Genericons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://s1.wp.com/wp-content/mu-plugins/jetpack-plugin/moon/_inc/genericons/genericons/Genericons.svg
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\mu-plugins\jetpack-plugin\moon\_inc\genericons\genericons\Genericons.svg
+Content Type: image/svg+xml
+
+Uri: https://s1.wp.com/wp-content/mu-plugins/jetpack-plugin/moon/_inc/genericons/genericons/Genericons.ttf
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\mu-plugins\jetpack-plugin\moon\_inc\genericons\genericons\Genericons.ttf
+Content Type: application/font-ttf
+
+Uri: https://s1.wp.com/wp-content/plugins/gutenberg-core/v19.7.0/build-module/block-library/file/view.min.js?ver=0600eabcab185ceb0430
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\plugins\gutenberg-core\v19.7.0\build-module\block-library\file\view.min.js
+Content Type: application/javascript
+
+Uri: https://s1.wp.com/wp-content/themes/pub/edin/font/edincon.eot?
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\themes\pub\edin\font\edincon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://s1.wp.com/wp-content/themes/pub/edin/font/edincon.eot?-yw7mjc
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\themes\pub\edin\font\edincon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://s1.wp.com/wp-content/themes/pub/edin/font/edincon.svg?-yw7mjc
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\themes\pub\edin\font\edincon.svg
+Content Type: image/svg+xml
+
+Uri: https://s1.wp.com/wp-content/themes/pub/edin/font/edincon.ttf?-yw7mjc
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\themes\pub\edin\font\edincon.ttf
+Content Type: application/font-ttf
+
+Uri: https://s1.wp.com/wp-content/themes/pub/edin/font/edincon.woff?-yw7mjc
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\themes\pub\edin\font\edincon.woff
+Content Type: application/font-woff
+
+Uri: https://s1.wp.com/_static/??-eJyFj0sOwjAMRC9EsIoCggXiKCgNbkhJ4igfVdwet2IRASq7GeuNPYYpCk2hYChQ7ugxQ6w94M0GGHi+KAa2OucNNLCvIrpqbMgwYolKP94ePFGAK6fAYMBkOZF/y6+lnw1yeTr8S82nFlJMUZNfq5qwd2RYGmCqsWshgyQcaVUsP9YaMThl0xy9+HN3OO673UlKOb4AQVl/Ww==&cssminify=yes
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-5.htm
+Content Type: text/css
+
+Uri: https://s1.wp.com/_static/??-eJyFjcsOwiAQRX/I6dSa+lgYvwWBEAgMOAPW/n3bqIk7V2dxT87FqYDOVC1VDIIcKxTOr7kLssN186RjM1a2MTya5fmDLnn6K0HyjlW1v/L37R6zgxKb8yQ4ZTbKCOioRN4hnQo+hw1AmcCZwmvilq7709CPh/54voQFmNpFWg==
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-7.htm
+Content Type: application/javascript
+
+Uri: https://s1.wp.com/_static/??-eJylj90KwjAMhV/IGCfo2IX4LDUN2tk2pUm313fCGILgjbffOZwfnAuQZONsmBqU2O4hK45sxdETFjQXkrQKmEQyTpy9VHTNJDmzQJudolMNBPbgxPDgWLiiD2pYWYtkDRPDFDyLfpM9qe7w957PGUl8i6xIrkpTjqhzWPrg1rKP/Hfa9mkF78BrunR915+Ph2E4jS90uXgQ&cssminify=yes
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-14.htm
+Content Type: text/css
+
+Uri: https://s1.wp.com/_static/??-eJyNkU1uwyAQhS/UKYncKMqi6lkwjMnYwCAGSo9fUBZtvIi8Qnp8782fagkMx4KxqFVU4Jk8QhXM2nUNKC78vsqb+sfNnh0kXx1FUY2z1VbAeC2CMkKaLn7vCfXPQdZhEYW1//JGCF43VTAkrwvu9Bc5hkMYLXraHnWfhL2x3DF0LNVZoaU4+Ki/yelCHA/Agjqb+xFwo9RbiBssbKrAQj8HXON9MesyrtL3bkZqNgiWW/TcF6/EZEqle7/C5/k6nT+m03S5rb93Aq9v
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-8.htm
+Content Type: application/javascript
+
+Uri: https://s1.wp.com/_static/??/wp-content/mu-plugins/comment-likes/css/comment-likes.css,/i/noticons/noticons.css?m=1436783281j&cssminify=yes
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-4.htm
+Content Type: text/css
+
+Uri: https://s2.wp.com/wp-content/blog-plugins/marketing-bar/images/arrow.svg
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\blog-plugins\marketing-bar\images\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://s2.wp.com/wp-content/blog-plugins/marketing-bar/images/jp-app.svg
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\blog-plugins\marketing-bar\images\jp-app.svg
+Content Type: image/svg+xml
+
+Uri: https://s2.wp.com/wp-content/blog-plugins/marketing-bar/images/wpcom-mark.svg
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\blog-plugins\marketing-bar\images\wpcom-mark.svg
+Content Type: image/svg+xml
+
+Uri: https://s2.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240i
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\mu-plugins\gravatar-hovercards\wpgroho.js
+Content Type: application/javascript
+
+Uri: https://s2.wp.com/wp-content/plugins/coblocks/2.18.1-simple-rev.4/dist/coblocks-style.css?m=1681832297i&cssminify=yes
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\plugins\coblocks\2.18.1-simple-rev.4\dist\coblocks-style.css
+Content Type: text/css
+
+Uri: https://s2.wp.com/wp-content/plugins/coblocks/2.18.1-simple-rev.4/dist/images/lightbox/arrow-left.svg
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\plugins\coblocks\2.18.1-simple-rev.4\dist\images\lightbox\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://s2.wp.com/wp-content/plugins/coblocks/2.18.1-simple-rev.4/dist/images/lightbox/arrow-right.svg
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\plugins\coblocks\2.18.1-simple-rev.4\dist\images\lightbox\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://s2.wp.com/wp-content/plugins/coblocks/2.18.1-simple-rev.4/dist/images/lightbox/close.svg
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\plugins\coblocks\2.18.1-simple-rev.4\dist\images\lightbox\close.svg
+Content Type: image/svg+xml
+
+Uri: https://s2.wp.com/wp-content/plugins/coblocks/2.18.1-simple-rev.4/dist/images/social/twitter.svg
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-content\plugins\coblocks\2.18.1-simple-rev.4\dist\images\social\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://s2.wp.com/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://s2.wp.com/_static/??-eJx9jcEKg0AMRH+oaVhorR7Eb9E16IpZg8min2889FZ6GYbhPQYPgbhlo2zIBWQtU8qKcdvJd5be0AmmMfW0Ejv2jKoP/K0daZzIXNdvB6PzvyJ+A8MgO6mCJ6fCYLN/6e113IZXU9WfUL/DcgHSTkDo&cssminify=yes
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-3.htm
+Content Type: text/css
+
+Uri: https://s2.wp.com/_static/??-eJydzEEOwiAQheELCWNrFV0YzwKUkKkIZGbQcPtWN+5cuHx5+X54VeVLlpAFamoRM0Ns23SB4vZQgOdw0UbvwTVMM7hU/F0ldGSpA0tPQXvmHfwMfRTDEqTaN7e9NFGRcP43QVYwR/7y2+M6mMN4NNP5NC4rOVVP3w==&cssminify=yes
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-1.htm
+Content Type: text/css
+
+Uri: https://s2.wp.com/_static/??-eJyFzc0KAjEMBOAXsoatiOxBfJZ0G0rd9Icma9m3t55EBL3OfMNAr2YpWSkrOC7BVN5CzAK9NI9eIHBxyMdF5AD/LPmYzcN+4bS9afSBdNBttGWNZBg7KKXKqCQgujP9fkvYVtKYg3HYYNDP5DW+pet0sfPZzqfJ3p9vllRI&cssminify=yes
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index.htm
+Content Type: text/css
+
+Uri: https://s2.wp.com/_static/??-eJyNj0FOxTAMBS9ECF8FIRaIs7iJm7p17FAnlOOTigWoi6+uLD3PPNl+Ly6oVJTqF/NZR2J0zXCD1DNHMunjYg/+HzeyJle4JRLzu24RornAYIZ2lOxQ+ezk9mdQTFjNY+tbXQkdw+4r5sJQ8ZTf6WFaO/3ZsOEMEhm3O3DQnI9/fqXlFJzFOmPuWGmjx0hy8AJflKCSygXYELYwXwFXKv0EWd2koZmb6PuCdcyOfeT32+twex6ehpe35QepDanp
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-13.htm
+Content Type: application/javascript
+
+Uri: https://s2.wp.com/_static/??-eJyNjcEKwjAQRH/IuA1aehI/ReImJKmb3eAmFP9eW3oRL16GeTC8gaUaFG6BG5RuKvWYWWEOrTp87AxFZA3fKShocs/gnfevrWaOR1Q9wP+mW2YEFcyODEkU/YIfW0uhfH7TGSLJ3dE6uJaLneww2mkYT/MbUOlJHA==&cssminify=yes
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-6.htm
+Content Type: text/css
+
+Uri: https://s2.wp.com/_static/??-eJyNkt1OxSAMgF9ITj2ZxnhhfBTDoNu6QYv8iI8v5OSo2cWyK9LyfU1LgRqUEc7IGdYEXkZyqErCqOeWU8STXNb0AP+40cmsgiszcYIq0WqblHE6JUy9SNXZ7R1f/gyyM+YEWNqtbITK6QoZfXA64y5/UMfR1ujPggUXzdZhPICNeN/nuUnrLrEX84K+YaGMgJa486y/aNaZhE/ACXU0yxlwo9Ba4E1NYkpSE32fsPp5MOvUV9iWZHrVaFBZqeykbQmSiRTygbtiDrqJt7j9B2H4IDYwFnIWjI7SPof75e6Jiz9s6Y6pGtrD78Lmvfu368twfRoeh+fX9QeLrvce
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-11.htm
+Content Type: application/javascript
+
+Uri: https://s2.wp.com/_static/??-eJzTLy/QzcxLzilNSS3WzyrWz01NyUxMzUnNTc0rQeEU5CRWphbp5qSmJyZX6uVm5uklFxfr6OPTDpRD5sM02efaGpoZmFkYGRuZGmQBAHPvL0Y=&cssminify=yes
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\_static\index-2.htm
+Content Type: text/css
+
+Uri: https://secure.gravatar.com/blavatar/d8f9f9e14c8668d36c6d7af3be286224a2ece67059b3ff125a332f512fc3ba04?s=100&d=https:%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\blavatar\d8f9f9e14c8668d36c6d7af3be286224a2ece67059b3ff125a332f512fc3ba04-4.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/blavatar/d8f9f9e14c8668d36c6d7af3be286224a2ece67059b3ff125a332f512fc3ba04?s=114
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\blavatar\d8f9f9e14c8668d36c6d7af3be286224a2ece67059b3ff125a332f512fc3ba04-1.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/blavatar/d8f9f9e14c8668d36c6d7af3be286224a2ece67059b3ff125a332f512fc3ba04?s=150&d=https:%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\blavatar\d8f9f9e14c8668d36c6d7af3be286224a2ece67059b3ff125a332f512fc3ba04-5.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/blavatar/d8f9f9e14c8668d36c6d7af3be286224a2ece67059b3ff125a332f512fc3ba04?s=200&d=https:%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\blavatar\d8f9f9e14c8668d36c6d7af3be286224a2ece67059b3ff125a332f512fc3ba04-6.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/blavatar/d8f9f9e14c8668d36c6d7af3be286224a2ece67059b3ff125a332f512fc3ba04?s=32
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\blavatar\d8f9f9e14c8668d36c6d7af3be286224a2ece67059b3ff125a332f512fc3ba04.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/blavatar/d8f9f9e14c8668d36c6d7af3be286224a2ece67059b3ff125a332f512fc3ba04?s=50&d=https:%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\blavatar\d8f9f9e14c8668d36c6d7af3be286224a2ece67059b3ff125a332f512fc3ba04-2.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/blavatar/d8f9f9e14c8668d36c6d7af3be286224a2ece67059b3ff125a332f512fc3ba04?s=75&d=https:%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\blavatar\d8f9f9e14c8668d36c6d7af3be286224a2ece67059b3ff125a332f512fc3ba04-3.png
+Content Type: image/png
+
+Uri: https://stats.wp.com/w.js?67
+File Name: C:\Downloaded Web Sites\rhsib.wordpress.com\w.js
+Content Type: application/javascript
+

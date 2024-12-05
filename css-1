@@ -1,0 +1,24 @@
+﻿@font-face {
+  font-family: 'PT Serif';
+  font-style: italic;
+  font-weight: 400;
+  src: url(s/ptserif/v18/EJRTQgYoZZY2vCFuvAFT_rO1dw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: italic;
+  font-weight: 700;
+  src: url(s/ptserif/v18/EJRQQgYoZZY2vCFuvAFT9gaQZyffpQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/ptserif/v18/EJRVQgYoZZY2vCFuvAFYzro.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/ptserif/v18/EJRSQgYoZZY2vCFuvAnt66qcVy4.ttf) format('truetype');
+}
